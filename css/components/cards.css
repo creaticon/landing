@@ -1,0 +1,17 @@
+.card img {
+    width: 150px;
+} 
+
+.cards {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card {
+    width: 200px;
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #eaeaea;
+    border-radius: 2px;
+    box-shadow: 0 0 5px #eaeaea;
+}
